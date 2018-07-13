@@ -1,0 +1,4 @@
+Code Book for 3 Variables
+mean(timeBodyAcc.mean...X) 
+mean(timeBodyAcc.mean...Y)
+mean(timeBodyAcc.mean...Z)
